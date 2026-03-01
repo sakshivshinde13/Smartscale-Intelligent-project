@@ -7,7 +7,7 @@ In addition, real-time email notifications are sent to administrators during sca
 This project simulates real-world production architecture and follows AWS best practices for monitoring, scaling, and alerting.
 
 ---
-![alt text](imgggg.png)
+![alt text](<WhatsApp Image 2026-03-01 at 16.29.34.jpeg>)
 ##  Problem Statement
 
 Traditional server-based systems suffer from:
